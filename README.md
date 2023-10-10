@@ -12,7 +12,7 @@ $ pip install requests bs4 futures
 
 $ pip install rich
 
-$ git clone https://github.com/RISKICODE/XDEVNOSYISTEMSAFE
+$ git clone https://github.com/RISKIXCODE/XDEVNOSYISTEMSAFE
 
 $ cd XDEVNOSYISTEMSAFE
 
