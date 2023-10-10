@@ -18,4 +18,4 @@ $ cd XDEVNOSYISTEMSAFE
 
 $ git pull
 
-$ python XDEVNOSYISTEMSAFE.py
+$ python NOSYISTEMSAFE.py
